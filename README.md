@@ -68,12 +68,12 @@ I am a Full Stack QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 ---
 
 ### :fire: My Stats :
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=elakovnick24&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elakovnick24&theme=tokyonight) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elakovnick24&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShamsutdinovAnvar&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShamsutdinovAnvar&theme=tokyonight) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShamsutdinovAnvar&theme=tokyonight)
 ---
 
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
