@@ -66,6 +66,18 @@ I am a Full Stack QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 </div>
 
 ---
+## My projects:
+### :star: UI Autotests for WeGoTrip website
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShamsutdinovAnvar&repo=Wegotrip_UI_tests)](https://github.com/ShamsutdinovAnvar/Wegotrip_UI_tests)
+
+
+### :star: API Autotests
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShamsutdinovAnvar&repo=Wegotrip_API)](https://github.com/ShamsutdinovAnvar/Wegotrip_API)
+
+
+### :star: Mobile Autotests for WeGoTrip mobile app
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ShamsutdinovAnvar&repo=Wegotrip_mobile)](https://github.com/ShamsutdinovAnvar/Wegotrip_mobile)
+
 
 ### :fire: My Stats :
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShamsutdinovAnvar&theme=tokyonight)
