@@ -47,7 +47,7 @@ I am a Full Stack QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/selenide/selenide-site-ng/blob/gh-pages/logo/logo_icon_white_800x800.png" title="Selenide" alt="Selenide" width="40" height="40"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Selenoid.svg" title="Selenoid" alt="Selenoid" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/aerokube/selenoid-ui/blob/master/docs/img/favicon.png" title="Selenoid" alt="Selenoid" width="40" height="40"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg" title="JUnit" alt="JUnit" width="40" height="40"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Rest-Assured.svg" title="RestAssured" alt="RestAssured" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio"  alt="Android Studio" width="40" height="40"/>&nbsp;
