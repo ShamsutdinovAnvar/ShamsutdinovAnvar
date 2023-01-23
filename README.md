@@ -53,7 +53,7 @@ I am a Full Stack QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio"  alt="Android Studio" width="40" height="40"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Appium.svg" title="Appium"  alt="Appium" width="40" height="40"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Browserstack.svg" title="Browserstack" alt="Browserstack" width="40" height="40"/>&nbsp;
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Jenkins.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker " width="40" height="40"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Gradle.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_Report.svg" title="Allure Report" alt="Allure Report" width="40" height="40"/>&nbsp;
