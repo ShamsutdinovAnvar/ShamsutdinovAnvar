@@ -60,7 +60,7 @@ I am a Full Stack QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://starchenkov.pro/qa-guru/img/skills/Allure_EE.svg" title="Allure TestOps" alt="Allure TestOps" width="40" height="40"/>&nbsp;
   <img src="https://icons8.com/icon/oROcPah5ues6/jira" title="JIRA" alt="JIRA" width="40" height="40"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Slack.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
-  <img src="https://www.svgrepo.com/svg/271091/telegram" title="Telegram" alt="Telegram" width="40" height="40"/>&nbsp;
+  <img src="https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg" title="Telegram" alt="Telegram" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
 </div>
