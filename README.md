@@ -43,7 +43,7 @@ I am a Full Stack QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://starchenkov.pro/qa-guru/img/skills/Intelij_IDEA.svg" title="Intellij Idea" alt="Intellij Idea" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/JetBrains/logos/blob/master/web/intellij-idea/intellij-idea.svg" title="Intellij Idea" alt="Intellij Idea" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
   <img src="https://github.com/selenide/selenide-site-ng/blob/gh-pages/logo/logo_icon_white_800x800.png" title="Selenide" alt="Selenide" width="40" height="40"/>&nbsp;
