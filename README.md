@@ -51,14 +51,14 @@ I am a Full Stack QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOC
   <img src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg" title="JUnit" alt="JUnit" width="40" height="40"/>&nbsp;
   <img src="https://github.com/rest-assured/rest-assured.github.io/blob/master/img/logo-transparent.png" title="RestAssured" alt="RestAssured" width="40" height="40"/>&nbsp; 
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="Android Studio"  alt="Android Studio" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Appium.png" title="Appium"  alt="Appium" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/ShamsutdinovAnvar/Wegotrip_mobile/blob/master/images/logo/appium.svg" title="Appium"  alt="Appium" width="40" height="40"/>&nbsp;
   <img src="https://pics.freeicons.io/uploads/icons/png/18140590851536130225-512.png" title="Browserstack" alt="Browserstack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker " width="40" height="40"/>&nbsp;
   <img src="https://starchenkov.pro/qa-guru/img/skills/Gradle.svg" title="Gradle" alt="Gradle" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ShamsutdinovAnvar/Wegotrip_UI_tests/blob/master/images/logo/Allure.svg" title="Allure Report" alt="Allure Report" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ShamsutdinovAnvar/Wegotrip_UI_tests/blob/master/images/logo/Allure_TO.svg" title="Allure TestOps" alt="Allure TestOps" width="40" height="40"/>&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jira_Logo.svg" title="JIRA" alt="JIRA" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/ShamsutdinovAnvar/Wegotrip_UI_tests/blob/master/images/logo/Jira.svg" title="JIRA" alt="JIRA" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Slack_icon_2019.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" title="Telegram" alt="Telegram" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
