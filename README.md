@@ -30,7 +30,7 @@
 ---
 
 ## :man_technologist: About me
-I am a Full Stack QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint Petersburg/Tashkent
+I am a Full Stack QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint Petersburg
 - :telescope:  I am a QA Engineer with proficiency in automation (Java) and manual testing.
 
 - :seedling: I am a responsible and motivated individual who is always looking for new challenges and opportunities to improve my skills.
