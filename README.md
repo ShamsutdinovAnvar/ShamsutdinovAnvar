@@ -31,9 +31,9 @@
 
 ## :man_technologist: About me
 I am a Full Stack QA Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Saint Petersburg/Tashkent
-- :telescope: I have experience in all kinds of manual testing, including Web and Mobile platforms and APIs, also I have experience in automation testing REST and WEB.
+- :telescope:  I am a QA Engineer with proficiency in automation (Java) and manual testing.
 
-- :seedling: Now I am confidently developing towards automatic testing in Java.
+- :seedling: I am a responsible and motivated individual who is always looking for new challenges and opportunities to improve my skills.
 
 <!-- - :zap: In my free time, I do tasks on JavaRush and read tech articles. -->
 
